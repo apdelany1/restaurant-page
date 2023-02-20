@@ -1,3 +1,5 @@
 import _ from 'lodash';
+import runHome from './nav'
 
-console.log("You're a tough mudder.")
+runHome()
+
